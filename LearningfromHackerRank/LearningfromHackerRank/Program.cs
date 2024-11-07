@@ -11,8 +11,11 @@ namespace LearningfromHackerRank
     {
         static void Main(string[] args)
         {
-            DiagonalDifference dd = new DiagonalDifference();
-            dd.Main(args);
+            //DiagonalDifference dd = new DiagonalDifference();
+            //dd.Main(args);
+
+            PlusMinus pm = new PlusMinus();
+            pm.Main(args);
         }
     }
 }
